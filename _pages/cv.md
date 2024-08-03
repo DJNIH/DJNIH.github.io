@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2017 - 2020         *      Dalian Medical University, China
+* 2017 - 2020 $~~~~~~~~~~~~~~$Dalian Medical University, China
          *                   PhD in Neurology
          *                   Advisor: Weidong Le, MD, PhD
         
@@ -22,7 +22,7 @@ Education
 
 Academic Training 
 ======
-* Spring 2024: Academic Pages Collaborator
+* 2020.11 - present: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
