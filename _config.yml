@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jie Dong / MD, PhD"
+title                    : "Jie Dong's personal page"
 title_separator          : "-"
 name                     : &name "Jie Dong"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "JieDong_profile.png"
   name             : "Jie Dong"
   pronouns         : # example: "Dr."  
-  bio              : "Postdoc fellow at NIH, US"
+  bio              : "MD, PhD//Postdoc fellow at NIH, US"
   location         : "Building 35, Bethesda, MD, 20892"
   employer         : "National Institutes of Health"
   uri              : # URL
