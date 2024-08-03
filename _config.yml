@@ -21,14 +21,14 @@ repository               : "DJNIH.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "JieDong_profile.png"
+  name             : "Jie Dong"
+  pronouns         : # example: "Dr."  
+  bio              : "MD,PhD"
+  location         : "Building 35 Room 1A-110, Bethesda, MD 20892"
+  employer         : "National Institutes of Health"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jie.dong@nih.gov" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
