@@ -25,7 +25,7 @@ Academic Training
 * 2020 - present: **Postdoctoral Fellow** 
   * Transgenics Section, National Institute on Aging, NIH
   * Advisor: Huaibin Cai, PhD
-  * Research project: “Striosome neurocircuits and function study under normal and Parkinson’s disease-related condition”
+  * Research project: “Striosome neurocircuits and function study under normal and Parkinson’s disease condition”
   * Research project: “Endocannabinoid synthase DAGLB deficiency contributes to Parkinson’s disease” 
 
 * 2019 - 2020: **Predoctoral Fellow**
