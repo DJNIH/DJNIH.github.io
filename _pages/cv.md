@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * 2017 - 2020         Dalian Medical University, China
-                      PhD in Neurology
-                      Advisor: Weidong Le, MD, PhD
+  *                   PhD in Neurology
+  *                   Advisor: Weidong Le, MD, PhD
         
 * 2010 - 2017         Dalian Medical University, China
                       MS and MD in Medicine (Seven-year Clinical Medicine Program)
