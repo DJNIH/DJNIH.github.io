@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "CV"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,12 +11,16 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Neurology, Dalian Medical University China, 2020
-      
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* 2017 - 2020         Dalian Medical University, China
+                      PhD in Neurology
+                      Advisor: Weidong Le, MD, PhD
+        
+* 2010 - 2017         Dalian Medical University, China
+                      MS and MD in Medicine (Seven-year Clinical Medicine Program)
+                      Grades ranked 2/380
+                      Licensed as a practicing physician in China 
 
-Work experience
+Academic Training 
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
