@@ -11,31 +11,33 @@ redirect_from:
 
 Education
 ======
-* 2017 - 2020 $~~~~~~~~~~~~~~$Dalian Medical University, China
-         *                   PhD in Neurology
-         *                   Advisor: Weidong Le, MD, PhD
+* 2017 - 2020: PhD in Neurology
+  *     Dalian Medical University, China
+  *     Advisor: Weidong Le, MD, PhD
         
-* 2010 - 2017         Dalian Medical University, China
-                      MS and MD in Medicine (Seven-year Clinical Medicine Program)
-                      Grades ranked 2/380
-                      Licensed as a practicing physician in China 
+* 2010 - 2017: MS and MD in Medicine (Seven-year Clinical Medicine Program)
+  * Dalian Medical University, China
+  * Grades ranked 2/380
+  * Licensed as a practicing physician in China 
 
 Academic Training 
 ======
-* 2020.11 - present: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020 - present: Postdoctoral Fellow 
+  * Transgenics Section, National Institute on Aging, NIH
+  * Advisor: Huaibin Cai, PhD
+  * Research project: “Striosome neurocircuits and function study under normal and Parkinson’s disease-related condition”
+  * Research project: “Endocannabinoid synthase DAGLB deficiency contributes to Parkinson’s disease” 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019 - 2020: Predoctoral Fellow
+  * Transgenics Section, National Institute on Aging, NIH
+  * Graduate Partnerships Program
+  * Advisor: Huaibin Cai, PhD
+  * Research project “Role of Aldh1a1 in nigrostriatal dopaminergic neurons against mutant α-synuclein-induced cytotoxicity in vivo”
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017 - 2018: Graduate Research Assistant
+  * Liaoning Provincial Center for Clinical Research on Neurological Diseases, Dalian Medical University
+  * Advisor: Weidong Le, MD, PhD
+  * Research project “The role of microglia Nurr1 in Parkinson’s disease”
   
 Skills
 ======
