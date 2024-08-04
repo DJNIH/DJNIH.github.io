@@ -42,9 +42,8 @@ Academic Training
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+1. [1]      	Liu Z*, Yang N*, Dong J*, et al. Deficiency in endocannabinoid synthase DAGLB contributes to Parkinson's disease and dopaminergic neuron dysfunction[J]. Nature Communication, 2022, 13(1):1-16. (*Co-first authors)
+**Jie Dong\***, Huaibin Cai, and Mibao Hu, "A good paper" [J] _A great publishier_ (2023). [[paper link](https://djnih.github.io/)]
   
 Talks
 ======
