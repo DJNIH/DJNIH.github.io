@@ -1,7 +1,7 @@
 ---
 title: "Therapies for Parkinson’s diseases: alternatives to current pharmacological interventions"
 collection: publications
-permalink: [8]   	Li S*, Dong J*, Cheng C, et al. Therapies for Parkinson’s diseases: alternatives to current pharmacological interventions[J]. Journal of Neural Transmission, 2016, 123(11): 1279-1299. (*Co-first author)
+permalink: /publication/2009-10-01-paper-title-number-1
 #excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 #date: 2009-10-01
 venue: 'Translational Medicine Journal'
