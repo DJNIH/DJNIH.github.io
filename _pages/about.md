@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+Summary
 ======
 *	Over 9 years of academic lab experience in neuroscience.
 *	Expertise in designing, managing and conducting complex cellular and circuit neuroscience research projects and have an established record of contribution in neural circuits study.
