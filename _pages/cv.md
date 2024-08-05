@@ -85,3 +85,13 @@ Training and certificates
 * 2019   MATLAB Fundamentals, NIH FAES
 
 
+Experimental skills
+======
+*	Physiology: fiber photometry in behaving mice, calcium imaging, optogenetic stimulation, chemogenetics, systematic and intracranial drug infusion, stereotaxic injection
+*	Animal Behavior: open field, rotarod test, gait analysis, water maze, Y-maze, tail suspension 
+*	Molecular Biology: plasmid constructions, PCR, RT-PCR, isolation and purification of DNA and RNA from animal tissues, western blot, HPLC, primary cell culture
+*	Histology: immunostaining, RNAscope, confocal imaging, ImageJ, stereology quantification
+*	Computer Skills: MATLAB, Microsoft Office (Word, PowerPoint, Excel)
+
+
+
